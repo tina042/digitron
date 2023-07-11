@@ -1,27 +1,27 @@
-<div align="center" > 
+<div> 
    <h2>Digitron: Tech Interview Simulator<h2>
-   <h2 align="center">Description </h2>
+   <h2>Description </h2>
    <h3>Digitron provides you a platform where you can select your tech stack and give one on one interviews with our AI. Our platform also provides you a Q and A       section where you can ask any general queries to our AI and also a Study material section where you can read about different tech stacks.
    </h3>
 </div>  
     
-   <h2 align="center">Deployed Link</h2>
-   <h3 align="center">Backend: https://hackathon-o2kz.onrender.com </h3>
+   <h2>Deployed Link</h2>
+   <h3>Backend: https://hackathon-o2kz.onrender.com </h3>
 
 <br>
     
-<h2 align="center">Tech Stack</h2>
-<h3 align="center">Frontend</h3>
-<p align="center">React | Redux </p> 
+<h2>Tech Stack</h2>
+<h3>Frontend</h3>
+<p>React | Redux </p> 
        
-<h3 align="center">Backend</h3>
-<p align="center">Node.js | Express.js | Openai</p> 
+<h3>Backend</h3>
+<p>Node.js | Express.js | Openai</p> 
        
-<h3 align="center"> Database </h3>
-<p align="center">MongoDB Atlas </p>
+<h3> Database </h3>
+<p>MongoDB Atlas </p>
 
-<h3 align="center">CSS Libraries</h3>
-<p align="center">Tailwind CSS</p> 
+<h3>CSS Libraries</h3>
+<p>Tailwind CSS</p> 
 
 
 # Schema : 
